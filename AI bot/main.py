@@ -39,4 +39,4 @@ async def check(ctx):
         await ctx.send("Вы забыли прикрепить фото")
 
 
-bot.run('MTEwOTM4NDY1ODgyNDcyNDU0MA.G7vV5E.WLKICCt6Vwec6DwJ9a464bMcpfJWBfS0WPShwc')
+bot.run('BOT TOKEN')
